@@ -1,5 +1,5 @@
 # TagFlow
-TagFlow is a file manager working with intelligent and structured tags. Il is availible on macOS, Windows and Linux.
+TagFlow is a file manager working with intelligent and structured tags. It is available on macOS, Windows and Linux.
 
 [Website](http://www.tagflow.ch/en/)
 
